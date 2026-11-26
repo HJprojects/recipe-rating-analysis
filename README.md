@@ -1,25 +1,44 @@
-Is Good Food Worth the Wait?
+# Is Good Food Worth the Wait?
 
-Exploring Recipe Ratings and Cooking Time
+### Exploring Recipe Ratings and Cooking Time
 
-By Hayley Jung
+**Hayley Jung | UC San Diego | DSC 80**
 
-Introduction
+---
 
-This project explores the relationship between cooking time and recipe ratings using the Recipes and Ratings dataset.
+## Introduction
 
-This project is part of DSC 80 at UC San Diego.
+This project explores the relationship between cooking
+time and recipe ratings using the Recipes and Ratings
+dataset.
 
-Data Cleaning and Exploratory Data Analysis
+**Research Question:**
+Do recipes that take longer to prepare receive higher ratings?
 
-Assessment of Missingness
+---
 
-Hypothesis Testing
+## Data Cleaning and Exploratory Data Analysis
 
-Framing a Prediction Problem
+---
 
-Baseline Model
+## Assessment of Missingness
 
-Final Model
+---
 
-Fairness Analysis
+## Hypothesis Testing
+
+---
+
+## Framing a Prediction Problem
+
+---
+
+## Baseline Model
+
+---
+
+## Final Model
+
+---
+
+## Fairness Analysis
