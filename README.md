@@ -1,28 +1,25 @@
-# recipe-rating-analysis
-A data science project exploring recipe ratings and cooking time for DSC 80 at UCSD.
+Is Good Food Worth the Wait?
 
-# Is Good Food Worth the Wait?
-
-### Exploring Recipe Ratings and Cooking Time
+Exploring Recipe Ratings and Cooking Time
 
 By Hayley Jung
 
-## Introduction
+Introduction
 
-This project explores the relationship between cooking
-time and recipe ratings using the Recipes and Ratings
-dataset.
+This project explores the relationship between cooking time and recipe ratings using the Recipes and Ratings dataset.
 
-## Data Cleaning and Exploratory Data Analysis
+This project is part of DSC 80 at UC San Diego.
 
-## Assessment of Missingness
+Data Cleaning and Exploratory Data Analysis
 
-## Hypothesis Testing
+Assessment of Missingness
 
-## Framing a Prediction Problem
+Hypothesis Testing
 
-## Baseline Model
+Framing a Prediction Problem
 
-## Final Model
+Baseline Model
 
-## Fairness Analysis
+Final Model
+
+Fairness Analysis
